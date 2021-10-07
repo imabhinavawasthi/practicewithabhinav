@@ -1,3 +1,5 @@
+### DAY 1 :)
+
 ### Topics to be covered:
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html#toc-tgt-6)
 - Compute x^n using only O(logn) 
