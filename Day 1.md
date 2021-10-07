@@ -1,10 +1,10 @@
 ### Topics to be covered:
-- Binary Exponentiation
+- [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html#toc-tgt-6)
 - Compute x^n using only O(logn) 
 - Compute x^n mod m
-- Euclidean algorithm for computing the greatest common divisor (GCD)
+- [Euclidean algorithm for computing the greatest common divisor (GCD)](https://cp-algorithms.com/algebra/euclid-algorithm.html)
 - Properties of GCD/LCM
-- Linear Diophantine Equation
+- [Linear Diophantine Equation](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 
 ### Problems:
 - Problem 1: https://www.spoj.com/problems/LASTDIG/
