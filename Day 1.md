@@ -15,3 +15,7 @@
 - Problem 4: https://www.spoj.com/problems/CEQU/
 - Problem 5: https://codeforces.com/contest/633/problem/A
 - Problem 6: https://codeforces.com/problemset/problem/630/I
+
+### [Video Link](https://youtu.be/v0Ouh0HTy8c)
+
+### Thank You
