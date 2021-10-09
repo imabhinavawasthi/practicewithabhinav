@@ -2,15 +2,13 @@
 
 ### Topics:
 
-- Bitwise Operators in C/C++
+- [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
 - Bitwise AND &
 - Bitwise OR |
 - Bitwise XOR ^
 - Left Shift <<
 - Right Shift >>
 - Bitwise Not ~
-
-### [GFG Blog Link](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
 
 ### Problems:
 
@@ -25,6 +23,6 @@
 - https://www.geeksforgeeks.org/find-the-element-that-appears-once/
 - https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/
 
-### [Video Link] ()
+### [Video Link](https://youtu.be/PKwL9RizzHk)
 
 ### Thank You!
