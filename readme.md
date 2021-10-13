@@ -1,4 +1,5 @@
-Hey Coder!
+### Hey Coder!
+
 
 This is Abhinav, to help you practice competitive programming, I am making this repo, where i will upload codes of practice problems, which I explain in my youtube videos. 
 
@@ -6,12 +7,14 @@ Also, you can contribute to this repository by uploading codes to the problem in
 
 I hope this is helpful to you.
 
-Check out my Youtube Channel: https://youtube.com/abhinavawasthi
+[Practice With Abhinav](https://youtube.com/playlist?list=PL_WUqFEwun5-4HRkmoZI9w5v4oKf1wQ6i)
 
-Linkedin: https://www.linkedin.com/in/abhinavawasthi01
+[Check out my Youtube Channel](https://youtube.com/abhinavawasthi)
 
-Codeforces: https://codeforces.com/profile/abhinavawasthi
+[Linkedin](https://www.linkedin.com/in/abhinavawasthi01)
 
-Codechef: https://www.codechef.com/users/abhinavawasthi
+[Codeforces](https://codeforces.com/profile/abhinavawasthi)
+
+[Codechef](https://www.codechef.com/users/abhinavawasthi)
 
 Thank You!
