@@ -10,7 +10,7 @@
 
 ### Problems:
 - Problem 1: https://www.spoj.com/problems/LASTDIG/
-- Problem 2: https://www.spoj.com/problems/LOCKER/
+- Problem 2: https://www.spoj.com/problems/LOCKER/  ( Video Editorial available on the channel )
 - Problem 3: https://www.spoj.com/problems/ZSUM/
 - Problem 4: https://www.spoj.com/problems/CEQU/
 - Problem 5: https://codeforces.com/contest/633/problem/A
